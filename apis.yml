@@ -1,0 +1,32 @@
+aid: openalex
+name: OpenAlex
+description: "Open catalog of scholarly works, authors, institutions, sources, and concepts"
+url: https://docs.openalex.org/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Science & Math"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Science And Math
+  - Public APIs
+apis:
+  - name: OpenAlex
+    description: "Open catalog of scholarly works, authors, institutions, sources, and concepts"
+    humanURL: https://docs.openalex.org/
+    baseURL: https://docs.openalex.org/
+    tags:
+      - Science And Math
+    properties:
+      - type: Documentation
+        url: https://docs.openalex.org/
+common:
+  - type: Website
+    url: https://docs.openalex.org/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
