@@ -14,7 +14,7 @@ edges:
     registered_name: org.openalex/openalex
     register_id: org.openalex/openalex
     detected_by: sweep-agent-tools.py
-    detected: '2026-10-14'
+    detected: '2026-10-15'
   mcp_registry:
     servers:
     - org.openalex/openalex
